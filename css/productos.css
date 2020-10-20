@@ -184,6 +184,8 @@ right: 5px;
 }
 .group__title {
     font-family: 'Cambria', cursive;
+    background-color: black;
+    color: white;
     text-align: center;
     font-weight: 100;
     font-size: 1.8em;
@@ -191,6 +193,7 @@ right: 5px;
 }
 
 .today-special .column {
+    background-color: black;
     margin-bottom: 30px;
     text-align: center;
 }
@@ -199,7 +202,7 @@ right: 5px;
     max-width: 350px;
 }
 .today-special__title {
-    color: white;
+    color: white;;
     font-size: 1.3em;
     padding-top: 20px;
     padding-bottom: 20px;
